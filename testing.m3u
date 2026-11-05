@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:My IPTV Selection - CODECS.COM
 
-#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="Jiotv+ ♨️English", CNBC TV18 Prime
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="VIP", CNBC TV18 Prime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb19113c11ce5cfb80c89696765a0187:b2797ce5e403ee22d8e36c6d5f2b6630
