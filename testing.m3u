@@ -1,6 +1,14 @@
 #EXTM3U
 #PLAYLIST:My IPTV Selection - CODECS.COM
 
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="Jiotv+ ♨️English", CNBC TV18 Prime
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb19113c11ce5cfb80c89696765a0187:b2797ce5e403ee22d8e36c6d5f2b6630
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"__hdnea__=st=1793810530~exp=1793832130~acl=/*~hmac=efa1d01b8967de5f35f1c36431d885bf0e26d0f1e94525fdf236c39a879e6995"}
+https://jiostbplus.saregojo99.workers.dev/proxy?url=https%3A%2F%2Fjiotvmblive.cdn.jio.com%2Fbpk-tv%2FCNBCTV18Prime_MOB%2FWDVLive%2Findex.mpd
+
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Animation;Kids",Rf - Cartoon Network - (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 
