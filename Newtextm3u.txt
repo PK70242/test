@@ -1,0 +1,615 @@
+#EXTM3U
+#PLAYLIST:Checked by CODECS.COM M3U Checker
+
+#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png" group-title="Reality",Sony One Shark Tank Brasil
+https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
+
+#EXTINF:-1 tvg-id="6647c02422494d000804b13a" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png" group-title="Competencia",Sony One Shark Tank México
+https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
+
+#EXTINF:-1 tvg-id="662bf39756fc840008f25cb9" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png" group-title="Competencia",Sony One Escape Perfecto
+https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
+
+#EXTINF:-1 tvg-id="AT2100002QM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2100002QM_20260421T123454SQUARE.png" group-title="Serien",Sony One Comedy TV
+https://jmp2.uk/stvp-AT2100002QM
+
+#EXTINF:-1 tvg-id="AT300008JS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300008JS_20260421T123500SQUARE.png" group-title="Filme",Sony One Comedy Hits
+https://jmp2.uk/stvp-AT300008JS
+
+#EXTINF:-1 tvg-id="AT300007S8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300007S8_20260421T123457SQUARE.png" group-title="Filme",Sony One Action HITS
+https://jmp2.uk/stvp-AT300007S8
+
+#EXTINF:-1 tvg-id="DE300002CL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300002CL_20260421T123554SQUARE.png" group-title="Filme",Sony One Comedy HITS
+https://jmp2.uk/stvp-DE300002CL
+
+#EXTINF:-1 tvg-id="DE30000489" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE30000489_20260421T123559SQUARE.png" group-title="Filme",Sony One Action HITS
+https://jmp2.uk/stvp-DE30000489
+
+#EXTINF:-1 tvg-id="DE300003AV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300003AV_20260421T123557SQUARE.png" group-title="Serien",Sony One Thriller TV
+https://jmp2.uk/stvp-DE300003AV
+
+#EXTINF:-1 tvg-id="DE300005NB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300005NB_20260421T123603SQUARE.png" group-title="Serien",Sony One Best Of
+https://jmp2.uk/stvp-DE300005NB
+
+#EXTINF:-1 tvg-id="DE3000016Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000016Q_20260421T123551SQUARE.png" group-title="Serien",Sony One Comedy TV
+https://jmp2.uk/stvp-DE3000016Q
+
+#EXTINF:-1 tvg-id="ES300004C9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20260528T055651SQUARE.png" group-title="Entretenimiento",Sony One Shark Tank
+https://jmp2.uk/stvp-ES300004C9
+
+#EXTINF:-1 tvg-id="ES300003D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260421T123722SQUARE.png" group-title="Serie",Sony One Éxitos
+https://jmp2.uk/stvp-ES300003D4
+
+#EXTINF:-1 tvg-id="ES300005EL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20261026T043223SQUARE.png" group-title="Serie",Sony One The Blacklist
+https://jmp2.uk/stvp-ES300005EL
+
+#EXTINF:-1 tvg-id="ES30000145" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20260421T123717SQUARE.png" group-title="Serie",Sony One Series Comedia
+https://jmp2.uk/stvp-ES30000145
+
+#EXTINF:-1 tvg-id="ES300007KS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260421T123731SQUARE.png" group-title="Cine",Sony One Hits Comedia
+https://jmp2.uk/stvp-ES300007KS
+
+#EXTINF:-1 tvg-id="ES300006QJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260707T051040SQUARE.png" group-title="Cine",Sony One Hits Acción
+https://jmp2.uk/stvp-ES300006QJ
+
+#EXTINF:-1 tvg-id="FR300010HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300010HD_20260528T055159SQUARE.png" group-title="Séries TV",Sony One Blacklist
+https://jmp2.uk/stvp-FR300010HD
+
+#EXTINF:-1 tvg-id="FR300011G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300011G9_20260421T123925SQUARE.png" group-title="Séries TV",Sony One Favoris
+https://jmp2.uk/stvp-FR300011G9
+
+#EXTINF:-1 tvg-id="FR300009JQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300009JQ_20260421T123919SQUARE.png" group-title="Cinéma",Sony One HITS Comédie
+https://jmp2.uk/stvp-FR300009JQ
+
+#EXTINF:-1 tvg-id="FR3000139Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3000139Z_20260811T045321SQUARE.png" group-title="Cinéma",Sony One Action HITS
+https://jmp2.uk/stvp-FR3000139Z
+
+#EXTINF:-1 tvg-id="GB300005ZR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300005ZR_20260421T123818SQUARE.png" group-title="Entertainment",Sony One Comedy TV
+https://jmp2.uk/stvp-GB300005ZR
+
+#EXTINF:-1 tvg-id="GB300008I8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260528T054008SQUARE.png" group-title="Reality",Sony One Dragons Den
+https://jmp2.uk/stvp-GB300008I8
+
+#EXTINF:-1 tvg-id="GB300007J7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20261026T042431SQUARE.png" group-title="TV Series",Sony One FAVES
+https://jmp2.uk/stvp-GB300007J7
+
+#EXTINF:-1 tvg-id="GB3000061H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000061H_20260421T123821SQUARE.png" group-title="TV Series",Sony One Thriller TV
+https://jmp2.uk/stvp-GB3000061H
+
+#EXTINF:-1 tvg-id="GB300003UI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300003UI_20260929T041659SQUARE.png" group-title="Movies",Sony One Comedy HITS
+https://jmp2.uk/stvp-GB300003UI
+
+#EXTINF:-1 tvg-id="GB3000041I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000041I_20261102T070552SQUARE.png" group-title="Movies",Sony One Action HITS
+https://jmp2.uk/stvp-GB3000041I
+
+#EXTINF:-1 tvg-id="IT300005J9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300005J9_20260421T124025SQUARE.png" group-title="Film",Sony One Film divertenti
+https://jmp2.uk/stvp-IT300005J9
+
+#EXTINF:-1 tvg-id="IT300004KM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20260721T041136SQUARE.png" group-title="Film",Sony One Film d’azione
+https://jmp2.uk/stvp-IT300004KM
+
+#EXTINF:-1 tvg-id="IT300006W3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300006W3_20260421T124028SQUARE.png" group-title="Serie TV",Sony One Gli imperdibili
+https://jmp2.uk/stvp-IT300006W3
+
+#EXTINF:-1 tvg-id="IT3000035B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000035B_20260421T124019SQUARE.png" group-title="Serie TV",Sony One Serie da Ridere
+https://jmp2.uk/stvp-IT3000035B
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Guam",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="India",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="United States",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="United States",Sony Movies (United States) (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="All Channels",sonyliv_playlist.m3u
+https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+
+#EXTINF:-1 tvg-id="79c26f90-3a3e-43eb-9173-1c78bbbd5013" tvg-logo="https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c" group-title="Latest",Sony ATTH
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Live Event",3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG] - India A Tour of New Zealand
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
+
+#EXTINF:-1 tvg-id="79c26f90-3a3e-43eb-9173-1c78bbbd5013" tvg-logo="https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c" group-title="Kids",Sony ATTH
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (United States) (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="662bf39756fc840008f25cb9" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png" group-title="Mexico",Sony One Escape Perfecto
+https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
+
+#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png" group-title="Brazil",Sony One Shark Tank Brasil
+https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
+
+#EXTINF:-1 tvg-id="6647c02422494d000804b13a" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png" group-title="Mexico",Sony One Shark Tank México
+https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="662bf39756fc840008f25cb9" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png" group-title="Mexico",Sony One Escape Perfecto
+https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
+
+#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png" group-title="Brazil",Sony One Shark Tank Brasil
+https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
+
+#EXTINF:-1 tvg-id="6647c02422494d000804b13a" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png" group-title="Mexico",Sony One Shark Tank México
+https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
+
+#EXTINF:-1 group-title="LG_BR",Sony One Cinema (BR)
+https://spt-sonyoneclassicas-1-br.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="LG_BR",Sony One Emoções (BR)
+https://spt-sonyoneemocoes-1-br.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="LG_BR",Sony One Shark Tank (BR)
+https://spt-sonyonesharktankbrasil-1-br.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNk47oTMuFgbjaG0yp7qPGD7w0Rf3rGRc7wURB_aUn-ArmAPsHo67HGOC8r-aiqd4AJhFhNQLu6LmGFhBj8pxHVL5ju7NCaI2ssa9QQm-rxmyv_zYwy9ehEIsdQVGxgLcGT8So2UCKIKIBz932Wi270pGc76elgFlp7aj3WXhrlOMvtUC2VxKni57FNg/s1080/1000060531.png" group-title="Movies",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png" group-title="Movies",SONY PIX HD
+https://botallen.live/t/32/master.m3u8?signature=98d52f857efce766d1975a3e5de438f9f8607528&unique=bd8cea6d4e431b3c75b9fb7b720a87c0
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png" group-title="Movies",Sony Wah (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090552778" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Cricket",3rd Unofficial Test - Day 1 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2120304/Criclive0611/ENG/master.m3u8?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6
+
+#EXTINF:-1 tvg-id="sonyliv-1090552837" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket",2nd ODI | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb
+
+#EXTINF:-1 tvg-id="ten_cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports",SONY TEN Cricket
+https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="JioTV+ ▶ | Sports",Sony LIV Sports 1
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-id="3373" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="JioTV+ ▶ | Sports",Sony LIV Sports 2
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-id="3374" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="JioTV+ ▶ | Sports",Sony LIV Sports 3
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-id="3397" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-title="JioTV+ ▶ | Sports",Sony LIV Sports 4 Tamil
+https://sliv.tgaadi.workers.dev/ten4sd.m3u8
+
+#EXTINF:-1 tvg-id="3398" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png" group-title="JioTV+ ▶ | Sports",Sony LIV Sports 4 Telugu
+https://sliv.tgaadi.workers.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-id="3399" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="JioTV+ ▶ | Sports",Sony LIV Sports 5
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
+
+#EXTINF:-1 tvg-id="SET HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony Liv | STREAMX",SET HD
+https://sliv.tgaadi.workers.dev/sethd.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pal.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Sony Liv | STREAMX",Sony Pal
+https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
+
+#EXTINF:-1 tvg-id="Sony Wah.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony Liv | STREAMX",Sony WAH
+https://sliv.tgaadi.workers.dev/sonywah.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Sony Liv | STREAMX",Sony MAX
+https://sliv.tgaadi.workers.dev/sonymaxsd.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony Liv | STREAMX",Sony Max HD
+https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Sony Liv | STREAMX",Sony MAX2
+https://sliv.tgaadi.workers.dev/max2.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 1
+https://sliv.tgaadi.workers.dev/ten1sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 1 HD
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 2
+https://sliv.tgaadi.workers.dev/ten2sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 2 HD
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 3
+https://sliv.tgaadi.workers.dev/ten3sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 3 HD
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 4 Tamil
+https://sliv.tgaadi.workers.dev/ten4sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 4 Telugu
+https://sliv.tgaadi.workers.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 5
+https://sliv.tgaadi.workers.dev/sonysixsd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony Liv | STREAMX",Sony Sports Ten 5 HD
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony Liv | STREAMX",Sony PIX HD
+https://sliv.tgaadi.workers.dev/pixhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Sony Liv | STREAMX",Sony Marathi
+https://sliv.tgaadi.workers.dev/sonymarathi.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv | STREAMX",Sony Aath
+https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
+
+#EXTINF:-1 tvg-id="CloudPlay" tvg-logo="https://i.postimg.cc/2Sn2JdvP/cloudplay2.png" group-title="CloudPlay",Join CloudPlay
+https://cloudplay-sonyliv.pages.dev/intros/intro/master.m3u8
+
+#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp" group-title="Entertainment",Sony Sab HD
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+
+#EXTINF:-1 group-title="SPORTS | CRICKET",SONY TEN 1 4K*
+https://streamhub.dhruvpatil681.workers.dev/1101.m3u8
+
+#EXTINF:-1 group-title="SPORTS | CRICKET",SONY TEN 2 4K*
+https://streamhub.dhruvpatil681.workers.dev/1103.m3u8
+
+#EXTINF:-1 group-title="SPORTS | CRICKET",SONY TEN 5 4K*
+https://streamhub.dhruvpatil681.workers.dev/1105.m3u8
+
+#EXTINF:-1 tvg-id="019efa45-df9a-7792-8f7c-3ea7e9aae905" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg" group-title="Channels, Indian Bangla",Indian Bangla',Sony AATH [PAID]
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="sonyliv-Football",Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="sonyliv-Football",Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="sonyliv-Golf",Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="sonyliv-Football",Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="sonyliv-Football",Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="sonyliv-Golf",Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="Movies",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Wah (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="Entertainment",Sony Aath (576p)
+https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Undefined",Sony Channel (720p)
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies Latin America (720p)
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series",Sony One Blacklist (1080p)
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="Movies",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="Movies",Sony One Hits Comedie (1080p)
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Wah (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="Movies",Sony One Favoris (1080p)
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action (1080p)
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Wah (1080p)
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090552850" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe389prod-PlaybackConfig/2120308/Footlive0711/ENG/master.m3u8?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26
+
+#EXTINF:-1 tvg-id="sonyliv-1090552850" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football",Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe389prod-PlaybackConfig/2120302/Footlive0711/HIN/master.m3u8?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26
+
+#EXTINF:-1 tvg-id="sonyliv-1090552844" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="Golf",Abu Dhabi HSBC Championship - Day 3 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe52bprod-PlaybackConfig/2120300/Golf_Abu0711/ENG/master.m3u8?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" group-title="Entertainment",Sony SAB KB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://raw.githubusercontent.com/m3u-iptv/live/refs/heads/main/Images/Sony_Wah.png" group-title="Movies",Sony Wah KB
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rshMz352/20260917-204241.png" group-title="Bangladesh",Sony Aath
+https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8#skym3u.dev
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2cPZHLj/20260917-183818.png" group-title="Bangladesh",Sony Television
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkTgP7qY/20260917-183408.png" group-title="MOVIE 🍿",Sony KAL Hindi ......89
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="MOVIE 🍿",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N01tR5R7/20260918-111509.png" group-title="SPORTS ⚽",Ten Cricket
+https://ireentv.pages.dev/Sony_Ten_Cricket_Server_2.m3u8
+
+#EXTINF:-1 tvg-id="825" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" group-title="Discovery 🌍",Sony BBC Earth ENGLISH
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="1090552836_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLiv",2nd ODI - 7 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-id="1090552836_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLiv",2nd ODI - 7 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-id="1090552836_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLiv",2nd ODI - 7 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-id="1090552836_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLiv",2nd ODI - 7 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-id="1090552836_KAN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLiv",2nd ODI - 7 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-id="1090552841_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="SonyLiv",Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-id="1090552844_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="SonyLiv",Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Afghanistan%20Under-19%20Vs%20Malaysia%20Under-19.jpg" group-title="Cricfy",Afghanistan Under-19 Vs Malaysia Under-19 - SonyLiv PRIME FHD
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rqq44fkslo/out/v1/6a680b9da5b945198a352e8eabdef769/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sri%20Lanka%20Under-19%20Vs%20Bangladesh%20Under-19.jpg" group-title="Cricfy",Sri Lanka Under-19 Vs Bangladesh Under-19 - SonyLiv PRIME FHD
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dl1fffpemp/out/v1/1614fa801f50438792fcc1c8ca3938ef/cenc.mpd
+
+#EXTINF:-1 tvg-id="019efa45-df9a-7792-8f7c-3ea7e9aae905" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg" group-title="Channels, Indian Bangla",Indian Bangla',Sony AATH [PAID]
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony Entertainment Television HD" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878590371_l_medium.jpg" group-title="Entertainment",Sony Entertainment Television HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SETHDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SETHDSTB_BTS/WDVLive/*~hmac=6c3ea727f6ac935feec15ace07ce49734e7988ac08f7d6174b581159c63fedb7
+
+#EXTINF:-1 tvg-id="Sony SAB HD" tvg-logo="https://img.media.jio.com/tvpimages/3/37/300267_1753198030652_l_medium.jpg" group-title="Entertainment",Sony SAB HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySAB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=af572ded01b587cdc8a32ae2481b896f1fffd64850c4d7e1a830fcfb78ebea3b
+
+#EXTINF:-1 tvg-id="Sony Marathi" tvg-logo="https://img.media.jio.com/tvpimages/20/34/300275_1753198479467_l_medium.jpg" group-title="Entertainment",Sony Marathi
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyMarathi_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonyMarathi_BTS/WDVLive/*~hmac=5a7289319293e44821068ce3d16ce6a0b516c27d50596480a528e7fdf63050ae
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/94/91/300273_1753198176882_l_medium.jpg" group-title="Sports",Sony Sports Ten 2 HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySportsTen2HDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonySportsTen2HDSTB_BTS/WDVLive/*~hmac=537a6ccf51d29ee7013752f37e76e274ffe67684088b15674784d65befaa83fe
+
+#EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-logo="https://img.media.jio.com/tvpimages/70/82/304242_1787560792651_l_medium.jpg" group-title="Infotainment",Sony BBC Earth HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1792043125~exp=1792064725~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=d23e3cab4ff24b2ad895108d7c15488b3f5a4c42e2a79001ded58eb6b146595c
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 4 Telugu" tvg-logo="https://img.media.jio.com/tvpimages/69/98/301739_1758886925512_l_medium.jpg" group-title="Sports",Sony Sports Ten 4 Telugu
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySportsTen4TelSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043120~exp=1792064720~acl=/bpk-tv/SonySportsTen4TelSTB_BTS/WDVLive/*~hmac=db1f985c5cf0245dd87e6e91cd123d80a97c2c07e6bcfdfd2015c6ef2993871f
+
+#EXTINF:-1 tvg-id="Sony PAL" tvg-logo="https://img.media.jio.com/tvpimages/27/1/300268_1753198503854_l_medium.jpg" group-title="Entertainment",Sony PAL
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyPAL_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonyPAL_BTS/WDVLive/*~hmac=810471ec2dda524e55cf0ac4301971445b4930ebb19d1513046b4b74c04e527f
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/5/8/300256_1765681154226_l_medium.jpg" group-title="Sports",Sony Sports Ten 1 HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/*~hmac=8b94fa47e4df7f60b5549a5be6d0ddabe859615d1849290e481f4790aee48c6c
+
+#EXTINF:-1 tvg-id="Sony WAH" tvg-logo="https://img.media.jio.com/tvpimages/75/37/300269_1753198013510_l_medium.jpg" group-title="Movies",Sony WAH
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/Sony_Wah_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/Sony_Wah_BTS/WDVLive/*~hmac=986880a9a2b1b758393cca39031a38908838b3133063600c3ca94345d3e85fbf
+
+#EXTINF:-1 tvg-id="Sony PIX HD" tvg-logo="https://img.media.jio.com/tvpimages/40/55/304243_1787562153974_l_medium.jpg" group-title="Movies",Sony PIX HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyPIX_BTS/WDVLive/index.mpd?__hdnea__=st=1792043125~exp=1792064725~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=1d09800a8a6c83c03d8ea9644b2f90032666742ddeb7026a6810f479a4c377c6
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 4 Kannada" tvg-logo="https://img.media.jio.com/tvpimages/88/41/304241_1787558889775_l_medium.jpg" group-title="Sports",Sony Sports Ten 4 Kannada
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyTen4Kan_BTS/WDVLive/index.mpd?__hdnea__=st=1792043125~exp=1792064725~acl=/bpk-tv/SonyTen4Kan_BTS/WDVLive/*~hmac=0535916a954cb84af594acd8ca74c84aedf4550b8c378c020bcd6d94a0712b91
+
+#EXTINF:-1 tvg-id="Sony MAX HD" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198064548_l_medium.jpg" group-title="Movies",Sony MAX HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/Sony_Max_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/Sony_Max_HD_BTS/WDVLive/*~hmac=a38992c7957597e09595e6be80642bf29d49aafbe2ae3e6c6643b450dc3f06e0
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 4 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/21/10/304240_1787558466383_l_medium.jpg" group-title="Sports",Sony Sports Ten 4 Tamil
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySportsTen4TamSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043125~exp=1792064725~acl=/bpk-tv/SonySportsTen4TamSTB_BTS/WDVLive/*~hmac=998bbde8f547dcffd65537e1e0ffefc8ceacd77837dac399df78bbf39818bfc9
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 5 HD" tvg-logo="https://img.media.jio.com/tvpimages/31/97/300258_1753198242081_l_medium.jpg" group-title="Sports",Sony Sports Ten 5 HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySportsTen5HDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonySportsTen5HDSTB_BTS/WDVLive/*~hmac=397efbcba0d22f2aa1972d7d5b28816b34a251227b3e335a530c16cbd48d6aab
+
+#EXTINF:-1 tvg-id="Sony Sports Ten 3 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/1/58/300255_1785137139451_l_medium.jpg" group-title="Sports",Sony Sports Ten 3 Hindi HD
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/*~hmac=20cc2135000ea880261c7e3ec75dfc394957e98f99d69ec97a15126d50817422
+
+#EXTINF:-1 tvg-id="Sony Aath" tvg-logo="https://img.media.jio.com/tvpimages/80/22/300263_1753198530763_l_medium.jpg" group-title="Entertainment",Sony Aath
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyAATH_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=c17a88d2579a7e946e357310cc5bdf39f57d2e8fe60a986ae7ea797792c59c25
+
+#EXTINF:-1 tvg-id="Sony MAX1" tvg-logo="https://img.media.jio.com/tvpimages/37/57/304244_1787562500652_l_medium.jpg" group-title="Movies",Sony MAX1
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/SonyMAX1_BTS/WDVLive/index.mpd?__hdnea__=st=1792043125~exp=1792064725~acl=/bpk-tv/SonyMAX1_BTS/WDVLive/*~hmac=56adf0c7db68cf7c2718e7b4aa9dcfaf6a73d038ef4dbad7c956588fa271d4b0
+
+#EXTINF:-1 tvg-id="Sony MAX 2" tvg-logo="https://img.media.jio.com/imagespublic/81/86/301559_1697790293245_l_medium.jpg" group-title="Movies",Sony MAX 2
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/Sony_MAX2_BTS/WDVLive/index.mpd?__hdnea__=st=1792043119~exp=1792064719~acl=/bpk-tv/Sony_MAX2_BTS/WDVLive/*~hmac=64c761bb1678779504f5e05b08aa06cbdedb11c05b833e46216830476099777c
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="RZSnywV08qGlTT" group-title="famelack (in) [in] [False]",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 group-title="All Channels",sonyliv_playlist.m3u
+https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+
+#EXTINF:-1 tvg-id="79c26f90-3a3e-43eb-9173-1c78bbbd5013" tvg-logo="https://s3.aynaott.com/storage/f7bfca4f0a3860067bf2eac37f41214c" group-title="Latest",Sony ATTH
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",2nd ODI - 7 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",2nd ODI - 7 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",2nd ODI - 7 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",2nd ODI - 7 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",2nd ODI - 7 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995227158198_ACC_MensU19_Afghanistan_vs_Malaysia_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",Afghanistan vs Malaysia - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies | Sportlink",Sony MAX HD
+https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies | Sportlink",Sony MAX
+https://sliv.tgaadi.workers.dev/sonymaxsd.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies | Sportlink",Sony MAX 2
+https://sliv.tgaadi.workers.dev/max2.m3u8
+
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies | Sportlink",Sony WAH
+https://sliv.tgaadi.workers.dev/sonywah.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies | Sportlink",Sony PIX HD
+https://sliv.tgaadi.workers.dev/pixhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment | Sportlink",Sony SAB HD
+https://sliv.tgaadi.workers.dev/sabhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Entertainment | Sportlink",Sony Marathi
+https://sliv.tgaadi.workers.dev/sonymarathi.m3u8
+
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment | Sportlink",Sony Pal
+https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment | Sportlink",Sony Aath
+https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 1
+https://sliv.tgaadi.workers.dev/ten1sd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 2
+https://sliv.tgaadi.workers.dev/ten2sd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="Sports | Sportlink",Sony Sports Ten 3
+https://sliv.tgaadi.workers.dev/ten3sd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" group-title="Sports | Sportlink",Sony Sports Ten 4
+https://sliv.tgaadi.workers.dev/ten4sd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 5
+https://sliv.tgaadi.workers.dev/sonysixsd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 1HD
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 2 HD
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="Sports | Sportlink",Sony Sports Ten 3 HD
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-title="Sports | Sportlink",Sony Sports Ten 4 HD
+https://sliv.tgaadi.workers.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 5 HD
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment | Sportlink",Sony BBC Earth HD
+https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids | Sportlink",Sony Yay
+https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-aath.png" group-title="Indian Bangla",Sony Aath
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-max-2.png" group-title="Indian Movies",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.in" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-movies-563051ab.png" group-title="Indian Movies",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-kal.png" group-title="Indian Entertainment",Sony KAL
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-sab.png" group-title="Indian Entertainment",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-aath.png" group-title="Backup",Sony Aath
+https://drk6xq0vhn.gpcdn.net/live/sony_aath_abr/index.m3u8
+
