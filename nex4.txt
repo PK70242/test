@@ -1046,7 +1046,84 @@ http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433161&e
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
+
+#EXTINF:-1 tvg-id="dorcel" group-title="TV",Dorcel TV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="barely-legal" group-title="TV",Barely Legal TV
+http://61f4e0e0.ottrast.com/iptv/UFERDUQS58TBD3/871/index.m3u
+
+#EXTINF:-1 tvg-id="russkaya-noch" group-title="TV",Русская ночь
+http://61f4e0e0.ottrast.com/iptv/UFERDUQS58TBD3/147/index.m3u
+
+#EXTINF:-1 tvg-id="kino18plusint-tviksel" group-title="TV",Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+
+#EXTINF:-1 tvg-id="extasytv" group-title="TV",Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="TV" group-title="TV",Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="erox" group-title="TV",Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eroxxxhd" group-title="TV",EroXXX HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="digital-desire" group-title="TV",Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
 #EXTINF:0 group-title="VIP",Barely legal
 http://e3e1880d.rossteleccom.net/iptv/9A4A5D6WCXS4XF/871/index.m3u8
