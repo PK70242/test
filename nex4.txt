@@ -1,0 +1,697 @@
+#EXTM3U
+#PLAYLIST:Nexus-4K
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS CRICKET.png" group-title="8K+",┃UK┃ SKY SPORTS CRICKET RAW 50FPS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1311995&extension=ts&play_token=UFUKdtVXiX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png" group-title="8K+",┃UK┃ SKY SPORTS CRICKET HEVC FHD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1312029&extension=ts&play_token=y3sLXqhSD5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS CRICKET.png" group-title="8K+",┃UK┃ SKY SPORTS CRICKET FHD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=394545&extension=ts&play_token=QB4Syn8RYK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/SUPERSPORTCRICKET.png" group-title="8K+",┃UK┃ SUPERSPORT CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=396876&extension=ts&play_token=6GdkMyNOQJ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=858678&extension=ts&play_token=MrzRRzG9cp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/willow cricket.png" group-title="8K+",┃USA┃ WILLOW CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=858677&extension=ts&play_token=PzcuFJrZxy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/willow cricket.png" group-title="8K+",┃USA┃ WILLOW CRICKET EXTRA HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=858676&extension=ts&play_token=AFb6k6VaFu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/ASTRO CRICKET.png" group-title="8K+",┃MY┃ ASTRO CRICKET
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=383053&extension=ts&play_token=k4WZNZ4AQa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ ASTRO CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809382&extension=ts&play_token=vG0IEhQkPH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ STAR SPORTS 1 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809383&extension=ts&play_token=V0d2h2SDxH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ STAR SPORTS 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809384&extension=ts&play_token=tKh4e7eb9x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SPORTS 18 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809385&extension=ts&play_token=IFuu9frQkL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ WILLOW CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809386&extension=ts&play_token=PHPBRZ5F2g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ WILLOW CRICKET EXTRA HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809387&extension=ts&play_token=tOQv91ZyPT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ ATN SPORTS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809388&extension=ts&play_token=n9wzHn6SyM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ FOX CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809389&extension=ts&play_token=33rOpeZjGl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SKY SPORTS CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809390&extension=ts&play_token=RyCtrmmF7m
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SKY SPORT 1 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809392&extension=ts&play_token=Eoaryz6v6S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SKY SPORT 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809393&extension=ts&play_token=Wm5xY6GqYV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SKY SPORT 3 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809394&extension=ts&play_token=wVBst7PPHs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SKY SPORT 4 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809395&extension=ts&play_token=yUIRApJ4zM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SUPER SPORTS CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809391&extension=ts&play_token=Fho593ZeZd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ TEN SPORTS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809396&extension=ts&play_token=KkR5xe2rFD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ A SPORTS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809397&extension=ts&play_token=loEVODgXBn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ PTV SPORTS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809398&extension=ts&play_token=31V4uoJcS0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ GEO SUPER HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809399&extension=ts&play_token=6ZUF4aZTG4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ STARZPLAY CRLIFE 1 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809400&extension=ts&play_token=ufNXe0AkaI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ STARZPLAY CRLIFE 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809401&extension=ts&play_token=Sx56o9gsZH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ STARZPLAY CRIIICLIFE MAX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809402&extension=ts&play_token=UdiHaylgZy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ HUB SPORTS 3 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809403&extension=ts&play_token=6eb9oZ4uoG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ FLOW SPORTS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809404&extension=ts&play_token=BjSQc0SYEL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ RUSH SPORTS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809405&extension=ts&play_token=M52VgP2gGA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ RUSH SPORTS 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809406&extension=ts&play_token=I8lAfwxQBH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SPORTSMAX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809407&extension=ts&play_token=RXhGMXljFG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SPORTSMAX 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809408&extension=ts&play_token=BBp4AEX08f
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ SPORTSMAX CRICKET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809409&extension=ts&play_token=7NBOnin4OH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ JIO CRICKET ENGLISH HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809411&extension=ts&play_token=cXWBd0VoSg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png" group-title="8K+",┃WC┃ CRICKET GOLD HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=809410&extension=ts&play_token=SUeb0jTCZW
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS HEVC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1646814&extension=ts&play_token=wIS4ojvlbJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS FHD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=824004&extension=ts&play_token=c1y6oMKeEY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372701&extension=ts&play_token=VOJRugBLkv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Utsav_Plus_HD_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV PLUS (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372700&extension=ts&play_token=YVGLYdKA67
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD HEVC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1646813&extension=ts&play_token=6R9wr4J3bP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD FHD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=823999&extension=ts&play_token=uKJoOBGU0T
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372699&extension=ts&play_token=y8bnd99aFa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavgold.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV GOLD (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372698&extension=ts&play_token=ZIPaHaydnH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavbharat.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV BHARAT HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372697&extension=ts&play_token=gRyEkSYdiN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utsavbharat.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ UTSAV BHARAT (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=728526&extension=ts&play_token=XcO0yHBm0M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeetv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZEE TV HEVC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1646812&extension=ts&play_token=H71gJEAj77
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeetv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZEE TV FHD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=824003&extension=ts&play_token=VBdlO4bePv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeetv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZEE TV HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=728527&extension=ts&play_token=PtOmpi5prh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeetv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZEE TV (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372696&extension=ts&play_token=sDSfPcfudN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeecinema.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZEE CINEMA HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372695&extension=ts&play_token=Org2wJWSR5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeecinema.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZEE CINEMA (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372694&extension=ts&play_token=xq8TtcRjE5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA EU/sony entertainment.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY TV HEVC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1646811&extension=ts&play_token=hRoVXzHxfG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA EU/sony entertainment.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY TV FHD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=824002&extension=ts&play_token=M4PtA9ONvn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA EU/sony entertainment.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY TV HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372693&extension=ts&play_token=YzofaZaDjP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA EU/sony entertainment.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY TV (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372692&extension=ts&play_token=x7W6pjJPCV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY MAX HEVC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1646810&extension=ts&play_token=zmeT7SpiV4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY MAX FHD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=824001&extension=ts&play_token=PefeGAjOVG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY MAX HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372691&extension=ts&play_token=KrFT0o5UkM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY MAX (UK) ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372690&extension=ts&play_token=Kxpuhk4nFQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY MAX 2 HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372689&extension=ts&play_token=xea5ZcnrAV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY MAX 2 (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=728608&extension=ts&play_token=pgTE264GUh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/colors.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS HEVC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1646809&extension=ts&play_token=JXhranFZ5O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/colors.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS FHD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=824000&extension=ts&play_token=53co9b8EfG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/colors.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372688&extension=ts&play_token=4M1heTBcPB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/colors.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372687&extension=ts&play_token=LqV7j3W4gy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony-SAB-Logo-2017.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY SAB HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372686&extension=ts&play_token=7H7BPaPSbu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony-SAB-Logo-2017.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SONY SAB (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=728672&extension=ts&play_token=BEBavehts2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Colors_Rishtey_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS RISHTEY TV HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372685&extension=ts&play_token=WdvHOzZpCU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Colors_Rishtey_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS RISHTEY TV (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=733522&extension=ts&play_token=PCYdxvnb2P
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Colors-cineplex%20(1).png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS CINEPLEX HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372684&extension=ts&play_token=rLqFDjlEDX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Colors-cineplex%20(1).png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ COLORS CINEPLEX (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=733523&extension=ts&play_token=LFfVNCeG3G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA EU/B4U MOVIES.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ B4U MOVIES (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372683&extension=ts&play_token=5TaBqZDqvz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/b4umusic.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ B4U MUSIC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372682&extension=ts&play_token=bjGUZeRrtu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/B4U_Plus.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ B4U PLUS (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372681&extension=ts&play_token=kukr5cWEJM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zing.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZING HD (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372680&extension=ts&play_token=MQBuckF9bD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zing.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ZING (UK)  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=733524&extension=ts&play_token=6S8PzlCJN4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/britasia.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ BRIT ASIA TV (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372679&extension=ts&play_token=BQSvZVdej8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/siraj.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SIRAJ TV (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372678&extension=ts&play_token=DJvvvSJzAc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ABP_News.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ ABP NEWS (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372677&extension=ts&play_token=ZsRt7qOi2w
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Aaj_Tak_Logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ AAJ TAK (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372676&extension=ts&play_token=VB8CdfEZvB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA EU/ndtv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ NDTV (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372675&extension=ts&play_token=YRnatP2tqP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Aastha_Logo.svg.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ AASTHA (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372674&extension=ts&play_token=qpn1sDajeq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/PTC_Punjabi.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ PTC PUNJABI (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372673&extension=ts&play_token=f5bx0XWZss
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/sikhchannel.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SIKH CHANNEL (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372672&extension=ts&play_token=Awdw1bKSsZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/akaalchannel.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ AKAAL CHANNEL (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372671&extension=ts&play_token=OA8mJnGVSa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sangat_TV_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ SANGAT (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372670&extension=ts&play_token=kRPqE8j6rS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/matv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ MATV NATIONAL (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372669&extension=ts&play_token=3VzKSjZkSz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/republictv.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ REPUBLIC TV (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372668&extension=ts&play_token=PiRiJtECKG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/KTV_India_logo.png" group-title="┃ HINDI┃ INDIA EU",┃IN┃ KTV (UK)
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372667&extension=ts&play_token=RL6b1KFhHs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/BIGG BOSS 1.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BIGG BOSS 1 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433158&extension=ts&play_token=CMBjIDb4hy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/BIGG BOSS 2.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BIGG BOSS 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433159&extension=ts&play_token=kHfueM2tc4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE TV HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE TV HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=735398&extension=ts&play_token=OcwgycC6Jq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE CINEMA FHD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE CINEMA HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=735399&extension=ts&play_token=zehg8LXnYE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE ACTION HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE ACTION HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=735400&extension=ts&play_token=I5rForSo3n
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE CLASSIC.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE CLASSIC HD  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=735401&extension=ts&play_token=CjIoWhyxA8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZING HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZING HD  ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=737321&extension=ts&play_token=29Qku5UmON
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR UTSAV MOVIES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR UTSAV MOVIES HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=737322&extension=ts&play_token=EfLsKpz0RG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR BHARAT HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR BHARAT HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=943734&extension=ts&play_token=mvhPwu2mUT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR GOLD HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR GOLD HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=737323&extension=ts&play_token=KuWdi7kKZL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Star_Gold_2.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR GOLD 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372926&extension=ts&play_token=TbADHTyybx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR GOLD SELECT FHD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR GOLD SELECT HD ⏺ʳᵉᶜ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=737325&extension=ts&play_token=HVoslCw80L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR PLUS FHD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=671571&extension=ts&play_token=XUxjBypLSY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/STAR USTAV HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR USTAV HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=943925&extension=ts&play_token=w9droyN3IG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/SET_India_logo.svg.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=943926&extension=ts&play_token=7qUODbobg3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY MAX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373074&extension=ts&play_token=SwVEwrZy0v
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony_Max_HD_2015.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY MAX 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373073&extension=ts&play_token=v8lOmaFi7u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY PIX HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY PIX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=943971&extension=ts&play_token=vB41jMstjy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/sony bbc earth HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY BBC EARTH HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373071&extension=ts&play_token=NRW7xR3XUz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sony-SAB-Logo-2017.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY SAB HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944604&extension=ts&play_token=C3ZypES0L0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY WAH.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY WAH HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944607&extension=ts&play_token=iIl4aqgskN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY PAL.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY PAL HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373069&extension=ts&play_token=aPIjZL2984
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SONY YAY.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SONY YAY HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373067&extension=ts&play_token=K1JY45HVWP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/B4U MOVIES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ B4U MOVIES HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944610&extension=ts&play_token=XpjqTyM0vb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/COLORS HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ COLORS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944612&extension=ts&play_token=s3OvcPp13Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/CINEPLEX HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ COLORS CINEPLEX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944627&extension=ts&play_token=Tl78gX3WsE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/& TV HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ &TV HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944622&extension=ts&play_token=4mPZk5MDwF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/andpictures.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ &PICTURES HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944620&extension=ts&play_token=wVRRPqpS3M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/9xjalwa.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ 9X JALWA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373064&extension=ts&play_token=fkkZP6b9Ca
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Aaj_Tak_Logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AAJ TAK HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373063&extension=ts&play_token=oSItLdRQ4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/AAJ TAK TEZ.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AAJ TAK TEZ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373062&extension=ts&play_token=7Tybdib8U4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zoom.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZOOM TV HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373061&extension=ts&play_token=UO35GcZjMB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Aastha_Logo.svg.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AASTHA HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373060&extension=ts&play_token=LtbVll9tpo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/AASTHA BHAJAN.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AASTHA BHAJAN HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373059&extension=ts&play_token=rFGe7fTfV1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ABP_News.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ABP NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944619&extension=ts&play_token=iKYb439cl5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/2018_Animal_Planet_logo.svg.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ANIMAL PLANET HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944624&extension=ts&play_token=bS3AYMZbDi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Arihant_TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ARIHANT
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944625&extension=ts&play_token=PcHRQFBqun
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/BabyTV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BABY TV HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373053&extension=ts&play_token=VY9CzvFW1k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/BIG_Magic_Logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BIG MAGIC HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=944626&extension=ts&play_token=KocaGFPpOZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/comedyactive.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ COMEDY ACTIVE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373050&extension=ts&play_token=rblJ121cmH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DD_National.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD NATIONAL HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373049&extension=ts&play_token=oqfGPMsVLw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Dd-rajasthan-in.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD RAJASTHAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373048&extension=ts&play_token=f0t73K98YF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DDBihar.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD BIHAR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373046&extension=ts&play_token=DBjQcWxxcF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DDIndia.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD INDIA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373045&extension=ts&play_token=6yoCdHY3HI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Dd-news_logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD NEWS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373044&extension=ts&play_token=aall8I9D8q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddsport.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD SPORTS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373043&extension=ts&play_token=QUCV7H22RN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DD_Oriya.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD ODIA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373042&extension=ts&play_token=yvDd7eNMVv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddup.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD UP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373041&extension=ts&play_token=rVGyvM2sXm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DD_Urdu.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD URDU
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373040&extension=ts&play_token=V5Yd41K9XA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddmp.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD MP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373039&extension=ts&play_token=Yqy5tm2sjt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ddbharati.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD BHARTI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373038&extension=ts&play_token=Pu1YFBd7aD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Discovery_HD_World.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISCOVERY WORLD HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373036&extension=ts&play_token=6Lkahk7JNg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/E24-TV-Channel.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ E24
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373035&extension=ts&play_token=kEntTfv0xP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/enter10.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ENTER 10 MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373034&extension=ts&play_token=SuCpLUL8IN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/epic.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ EPIC HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373033&extension=ts&play_token=pXWVwnoqyT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Fox_Life_logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR LIFE HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373032&extension=ts&play_token=fY7SV2khDq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/History_TV18_29.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HISTORY TV 18 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373031&extension=ts&play_token=8iZMcGcmM2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/housefullaction.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HOUSEFULL ACTION
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373030&extension=ts&play_token=xulDkoPJ0w
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/hungamaBhakti_Sagar_TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HUNGAMA BHAKTI SAGAR HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373029&extension=ts&play_token=RZsdvzvQ9O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/hungamadilse.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HUNGAMA DIL SE HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373028&extension=ts&play_token=wnuGR2Kj6y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/hungamakadakhits.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HUNGAMA KADAK HITS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373027&extension=ts&play_token=V3gr82LVAH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/HUNGAMA NAZRANA HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HUNGAMA NAZRANA HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373026&extension=ts&play_token=REGNTAqOHF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/HUNGAMA POP PATAKA HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HUNGAMA POP PATAKA HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373025&extension=ts&play_token=P5hQuZY0QI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/miniplex.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MINIPLEX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373023&extension=ts&play_token=tsftglvZvR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/MOVIES ACTIVE.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MOVIES ACTIVE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373022&extension=ts&play_token=B5E1eSF6sk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MTVBeats.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MTV BEATS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373021&extension=ts&play_token=xqMDBH7ans
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Logo_mtv_plus.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MTV PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373020&extension=ts&play_token=LooZtXDbDI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Music_India.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MUSIC INDIA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373019&extension=ts&play_token=5ambRNYGZ0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/National_Geographic_Wild_logo.svg.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NAT GEO WILD HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373018&extension=ts&play_token=ICRSgTTwMz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/National_Geographic_Channel_HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NATIONAL GEOGRAPHIC HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373017&extension=ts&play_token=FSOJaAXk4r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/SAHARA BIHAR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA BIHAR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373016&extension=ts&play_token=ZP4TU2u2NH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/news18.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 18 INDIA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373015&extension=ts&play_token=9qYNgKjqAU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/NEWS 18 RAJASTHAN.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 18 RAJASTHAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373014&extension=ts&play_token=w64EB297HW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/news-nation-logo.png.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS NATION
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373013&extension=ts&play_token=Bw803WcyQB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/newsstate.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS STATE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373012&extension=ts&play_token=g6MWUc9ZqP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/republictv.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ REPUBLIC TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373011&extension=ts&play_token=G1jp1oEYlV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/paras.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ PARAS TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373010&extension=ts&play_token=4h5PmlCVcO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/peaceofmind.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ PEACE OF MIND HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373009&extension=ts&play_token=sOZHqzAWNE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Maha_Movie.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MAHA MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373008&extension=ts&play_token=K7LLEYmN0e
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/sohamtv.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SOHAM TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373007&extension=ts&play_token=RYsMtXE8Cm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/tatasky.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TATA SKY BOLLYWOOD PREMIER HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373006&extension=ts&play_token=5rX5DUggMW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/UTV_Action_Telugu.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR GOLD THRILLIS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373005&extension=ts&play_token=8iGO1pSpw2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/UTV_HD_India.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ UTV HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373004&extension=ts&play_token=9hw8BHPPps
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/vedictv.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ VEDIC TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373003&extension=ts&play_token=ZlhNjEMl7x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/wowcinema.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ WOW CINEMA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373002&extension=ts&play_token=pGyz2H2caH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeeanmol.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE ANMOL
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373001&extension=ts&play_token=KOupRIi3ax
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zee-anmol-cinema.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE ANMOL CINEMA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=373000&extension=ts&play_token=S4bthn7of4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/1024px-Zee_Hindustan_Logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE BHARAT
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372999&extension=ts&play_token=5R7qNiNcUS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372998&extension=ts&play_token=pMuyMTt2jT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE NEWS BIHAR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE NEWS BIHAR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372997&extension=ts&play_token=TuK96xqfLc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeenews.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE NEWS MP/CHATTISGARH
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372996&extension=ts&play_token=dkUSyD1gzO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE NEWS UP.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE NEWS UP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372995&extension=ts&play_token=IIB2javts0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zee-rajasthan-plus.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE RAJASTHAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372994&extension=ts&play_token=ZNCQbbC4Lh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Pogo_2004.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ POGO KIDS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372993&extension=ts&play_token=tqUXj7hXNM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/cinematv.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CINEMA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372992&extension=ts&play_token=K86dwHFNLs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/moviehouse.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MOVIE PLUS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372991&extension=ts&play_token=5qJ9HliQlR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zee_Ganga.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ABP GANGA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372990&extension=ts&play_token=OqZnT32yhB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/andflix.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AND FLIX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372989&extension=ts&play_token=50vHoI2dg5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/DISH CINE ACTIVE.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISH CINE ACTIVE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372988&extension=ts&play_token=Glmq0Rywcm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/evergreenclassic.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ EVERGREEN CLASSIC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372987&extension=ts&play_token=5435yOl5eO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/DISNEY SD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISNEY SD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372986&extension=ts&play_token=07yaNrBBgN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/cnbc-tv18-logo-vector.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CNBC TV18 NEWS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372985&extension=ts&play_token=Z4S827coQx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/timesnow.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TIMES NOW HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372984&extension=ts&play_token=yWFvpzuAWX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/nichplus.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NICK PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372983&extension=ts&play_token=AjjOzQsDeV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MNX_new_logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MNX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372982&extension=ts&play_token=ceOuFDVh67
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Movies_Now_HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MOVIES NOW HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372981&extension=ts&play_token=h6qrrrZ0pD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mnplus.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MN PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372980&extension=ts&play_token=pyDHMduEXB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/disneyinternational.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISNEY INTERNATIONAL HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372979&extension=ts&play_token=pgGbFSOaP0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/tatasky.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TATA SKY BOLLYWOOD HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372978&extension=ts&play_token=Jg84Tdkm10
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/CN PLUS HD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CN PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372977&extension=ts&play_token=JmnNOQlnO2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Bindass.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BINDAS MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372976&extension=ts&play_token=pAGOZA2XmA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/utv-movies.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ UTV MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372975&extension=ts&play_token=KjohQ41eig
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/DisneyXD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISNEY XD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372974&extension=ts&play_token=PQRhqOaXvg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Ishwar.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ISHWAR TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372973&extension=ts&play_token=mSyiW01k1p
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CNHD.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CARTOON NETWORK
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372972&extension=ts&play_token=fxIaQCCFbb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Republic_Bharat.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ REPUBLIC BHARAT
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372971&extension=ts&play_token=OvldQB0Fqt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/b4umusic.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ B4U MUSIC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372970&extension=ts&play_token=gqDa4wYg3M
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/INDIA NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372969&extension=ts&play_token=xaQ3Cc7BZC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/INDIA TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372968&extension=ts&play_token=dEqfycwnNL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Dangal_TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DANGAL
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372967&extension=ts&play_token=KZVg0E3rq4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mastiii-logo-mew.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MASTII
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372966&extension=ts&play_token=w0m7NrJoJy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/NDTV_India_Logo.svg.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NDTV INDIA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372965&extension=ts&play_token=7dY6lfnX3G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/INDIA NEWS MP.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA NEWS MP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372964&extension=ts&play_token=8xAmOtkk6H
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA NEWS UP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372963&extension=ts&play_token=8X5DKTEbpN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE DELHI HARYANA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE DELHI HARYANA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372962&extension=ts&play_token=Hvmw0Pqe6z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/NewsX_Logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS X
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372961&extension=ts&play_token=Ct0E7BPmox
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Inews_Rajasthan.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA NEWS RAJASTHAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372960&extension=ts&play_token=6x86Dtg6qK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/SudarshanNewsLogo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SUDARSHAN NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372959&extension=ts&play_token=s8uDGZjcYA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mahaanews.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MAHA NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372958&extension=ts&play_token=D7RVnBNJOh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Ndtv-good-times-new-logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NDTV GOOD TIMES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372949&extension=ts&play_token=RJpqLcprzu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/omshanti.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ OM SHANTI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372948&extension=ts&play_token=LQqVMRUfMT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ibc24.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ IBC 24
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372947&extension=ts&play_token=Z8Bn5xoMil
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/News24.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 24
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372946&extension=ts&play_token=LUGFuRNWTe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Shubh.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SHUBH TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372945&extension=ts&play_token=aaYsBl6mB4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Logo_of_Ramdhenu.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ RAMDHENU
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372944&extension=ts&play_token=tJIAzMPcAK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Rengonihi.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ RENGONI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372943&extension=ts&play_token=vebdaAjNBJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/foodfood.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ FOOD FOOD HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372942&extension=ts&play_token=y44GbSPRXt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/krishna.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HARE KRSNA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372941&extension=ts&play_token=QMHIFGymE0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/DILLI AAJ TAKK.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DILLI AAJ TAKK
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372940&extension=ts&play_token=ZTguhYuNLf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Prag_news.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ PRAG NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372939&extension=ts&play_token=vmwmJGDRxn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Rang_logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ RANG
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372938&extension=ts&play_token=x1x0AS3TpH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/news18.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 18 LIVE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372937&extension=ts&play_token=iMDOcN91z6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/NDTV_Profit.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NDTV PROFIT
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372936&extension=ts&play_token=VyHc34jhZs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/NDTV_247.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NDTV 24x7
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372935&extension=ts&play_token=VJvS1Qz4ul
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/india-today.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA TODAY
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372934&extension=ts&play_token=UYDZLjeyzt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/9X MUSIC.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ 9X MUSIC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372933&extension=ts&play_token=DteB0WrXXl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/E!_News_2020_logo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ E NEWS 24
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372932&extension=ts&play_token=4mLYIhvWRU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zee-business.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE BUSINESS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372931&extension=ts&play_token=ZTai1u5oCL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Sanskarv.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SANSKAR TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372930&extension=ts&play_token=8zgQRh34Ki
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Satsang.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SATSANG TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372929&extension=ts&play_token=RPOCIf7O8F
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/2016_Discovery_Kids_logo.svg.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISCOVERY KIDS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372928&extension=ts&play_token=o4lXWZSyI0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/channelwin.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CHANNEL WIN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372927&extension=ts&play_token=gR0A2qKIC0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/andexplorer04.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AND XPLOR HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372925&extension=ts&play_token=Ac1WXD56nH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ZeeETCBollywoodLogo.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE BOLLYWOOD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372924&extension=ts&play_token=D4lGNP69Zm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/BOL HADIPPA PUNJ.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BOL HADIPPA PUNJABI HITS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372923&extension=ts&play_token=ARixjOWpX6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mirrornow.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MIRROR NOW
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372922&extension=ts&play_token=GdNBeRvyr1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/zeeyuva.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE YUVA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372921&extension=ts&play_token=U1Nu1DjNrw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/prarthanabhawan.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ PRARTHANA BHAWAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372920&extension=ts&play_token=W77bHQxUfs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Patrika-rajasthan-in.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE RAJASTHAN NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372919&extension=ts&play_token=v6T0FvHScV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/REPUBLIC NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ REPUBLIC NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372918&extension=ts&play_token=OAd3ll57R1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/ibnlokmat.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ LOKSHAHI NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372917&extension=ts&play_token=gbOlSVOPYc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/INDIA/ZEE NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE NEWS MP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372915&extension=ts&play_token=ptLOCbQhGK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Divya.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DIVYA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372914&extension=ts&play_token=TjdISzlfq8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/TARANG_TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TARANG TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372913&extension=ts&play_token=JwwFa192dk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Alankar.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ALANKAR TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372912&extension=ts&play_token=cV9YPe7TDO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/tarangmusic.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TARANG MUSIC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372911&extension=ts&play_token=rqGU8EurwL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Zee_Sarthak.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ZEE SARTHAK
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=372910&extension=ts&play_token=DRPH9iQ7cQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/9X TASHAN.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ 9X TASHAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433234&extension=ts&play_token=YwAm0ibOEy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ABZY MOVIES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ABZY MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433207&extension=ts&play_token=NTsCV11zlT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/AIRTEL HOLLYWOOD MASALA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AIRTEL COMEDY MASALA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433174&extension=ts&play_token=d6k4WN5FKP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/AIRTEL HOLLYWOOD MASALA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ AIRTEL HOLLYWOOD MASALA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433173&extension=ts&play_token=kAhX2pbMOL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ANAADI TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ANAADI TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433206&extension=ts&play_token=z6UgOyM8na
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/APN NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ APN NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433229&extension=ts&play_token=6AIjUPBuWf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/B4U KADAK.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ B4U KADAK
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433208&extension=ts&play_token=yJUUdcAa3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/BFLIX.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BFLIX HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433210&extension=ts&play_token=nrLlyGgMvp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/BHAKTI SAGAR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ BHAKTI SAGAR HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433230&extension=ts&play_token=fKYtIV3XI6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/CNBC AAWAZ.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CNBC AAWAZ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433236&extension=ts&play_token=f6OdE4EVUk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/CNBC TV 18.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ CNBC TV 18
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433190&extension=ts&play_token=qViUBQUxzT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DABANGG.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DABANGG
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433215&extension=ts&play_token=ybskfQLg5X
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DANGAL 2.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DANGAL 2 HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433166&extension=ts&play_token=V4BJB5qTNc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD CHATTISGARH.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD CHATTISGARH
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433189&extension=ts&play_token=3wWUBkl64d
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD GOA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD GOA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433188&extension=ts&play_token=YV3VIFqC9u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD HARYANA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD HARYANA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433186&extension=ts&play_token=MFbdGUuQQ1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD HIMACHAL PARDESH.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD HIMACHAL PARDESH
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433187&extension=ts&play_token=GEh2r5fMUP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD JHARKHAND.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD JHARKHAND
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433185&extension=ts&play_token=O08kGb5lDM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD KISAN.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD KISAN
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433184&extension=ts&play_token=JXVpGmrg47
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD KISHAR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD KISHAR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433183&extension=ts&play_token=xhLNzi2baO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD MANIPUR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD MANIPUR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433182&extension=ts&play_token=dj43SrGjtM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD MEGHALAYA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD MEGHALAYA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433181&extension=ts&play_token=koPvWju9IA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD MEZORAM.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD MEZORAM
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433180&extension=ts&play_token=SKu2EGOC3a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD NAGALAND.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD NAGALAND
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433179&extension=ts&play_token=npWsB3GZkt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD RETRO.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD RETRO
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433238&extension=ts&play_token=sowVYywbLC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD SAPTIGIRI.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD SAPTIGIRI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433177&extension=ts&play_token=CRKxa6UDK3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD TRIPURA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD TRIPURA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433178&extension=ts&play_token=KwhFs8Npea
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD UTTARAKHAND.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD UTTARAKHAND
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433176&extension=ts&play_token=6wzW1LIlMm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DD YADAGIRI.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DD YADAGIRI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433175&extension=ts&play_token=wdSeh6uETq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DHINCHAK 2 MOVIES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DHINCHAK 2 MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433193&extension=ts&play_token=hKqHm6Ezu4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DISCOVERY ID.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISCOVERY ID HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433213&extension=ts&play_token=709QrZPUMv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/DISNEY JUNIOR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ DISNEY JUNIOR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433165&extension=ts&play_token=JTZwe1qhbI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ENTER 10.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ENTER 10
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433198&extension=ts&play_token=75hJyyWwVr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ET NOW.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ET NOW
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433246&extension=ts&play_token=h0zxjOYndk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/FIRANGI.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ FIRANGI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433205&extension=ts&play_token=waSbV4lfle
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/FIRST INDIA NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ FIRST INDIA NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433197&extension=ts&play_token=AhRCgUKBIl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/GOLDMINE MOVIES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ GOLDMINE MOVIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433194&extension=ts&play_token=eXUyRZp9aq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/HINDI KHABAR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HINDI KHABAR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433224&extension=ts&play_token=GBSPPDxAqX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/HINDI TIMES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HINDI TIMES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433160&extension=ts&play_token=y55SMgwboh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/HUNGAMA KIDS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ HUNGAMA KIDS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433211&extension=ts&play_token=9u5dg9dUav
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/IDN LOKMAT.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ IDN LOKMAT
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433169&extension=ts&play_token=I5gQef5k5b
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/INDIA NEWS HARYANA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA NEWS HARYANA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433167&extension=ts&play_token=t6V0MSXn8h
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/INDIA VOICE.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA VOICE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433228&extension=ts&play_token=yrgzQUZL9Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/INDIA WIZ.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ INDIA WIZ
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433209&extension=ts&play_token=VLJWmvvthB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ISHAARA TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ISHAARA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433191&extension=ts&play_token=pOdZT05gob
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/JANTA TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ JANTA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433226&extension=ts&play_token=m0gqxkBvXp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/JAN TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ JAN TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433239&extension=ts&play_token=LvWII1fP4E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/KRISHNA VANI.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ KRISHNA VANI HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433168&extension=ts&play_token=pGIauGAlP0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MANORANJAN GRAND.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MANORANJAN GRAND
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433196&extension=ts&play_token=LVvraWQSDs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MH1 NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MH1 NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433237&extension=ts&play_token=yDqpbX4vV2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MH1 SHRADDHA 4.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MH1 SHRADDHA 4
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433199&extension=ts&play_token=c6ZEhBwftd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MTUNES PLUS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MTUNES PLUS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433225&extension=ts&play_token=44JjG2TgNv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MTV PLUS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MTV PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433162&extension=ts&play_token=WqadBwmhMd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/MTV PLUS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ MTV PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433242&extension=ts&play_token=IxN3M8qqwk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NAZARA TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NAZARA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433235&extension=ts&play_token=WcFRYZhb9O
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NEWS 18 BIHAR.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 18 BIHAR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433231&extension=ts&play_token=9sFsrignpS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NEWS 18 MP & CHATTISGARH.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 18 MP & CHATTISGARH
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433232&extension=ts&play_token=rFIrdUnvaY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NEWS 18 UP & UK.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS 18 UP & UK
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433233&extension=ts&play_token=K56eicVtwE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NEWS INDIA 24x7.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS INDIA 24x7
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433204&extension=ts&play_token=BjQoB1eFlY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NEWS STATE MP CHG.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS STATE MP CHG
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433202&extension=ts&play_token=zjXVlECbwR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NEWS STATE UP UK.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NEWS STATE UP UK
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433201&extension=ts&play_token=soINoc4glq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/NICK PLUS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ NICK PLUS HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433214&extension=ts&play_token=H4ZcM5alVC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/RAJASTHAN PATRIKA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ RAJASTHAN PATRIKA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433245&extension=ts&play_token=zS4AyCjLKY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SADHNA PRIME NEWS.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SADHNA PRIME NEWS
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433195&extension=ts&play_token=7ICiGXVdig
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA FILMY.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA FILMY
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433223&extension=ts&play_token=VVCYEWCROD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA MP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433218&extension=ts&play_token=wimPLkl2r2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA MUMBAI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433219&extension=ts&play_token=Q1bmWuSdxS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA NCR
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433220&extension=ts&play_token=kIQNCU1fgv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA NEWS NATIONAL.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA NEWS NATIONAL
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433216&extension=ts&play_token=wdiJAHz1LC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA ONE.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA ONE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433217&extension=ts&play_token=biCMTyqONr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA SAMAY ALAMI.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA SAMAY ALAMI
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433222&extension=ts&play_token=oue3Oej8RR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SAHARA UP.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SAHARA UP
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433221&extension=ts&play_token=A2e4VY6Gqz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SHOWBOX.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SHOWBOX
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433227&extension=ts&play_token=mKqwhyFBhr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SHUBH CINEMA TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SHUBH CINEMA TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433200&extension=ts&play_token=l2dXf7cHjr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/STAR GOLD ROMANCE.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ STAR GOLD ROMANCE
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433164&extension=ts&play_token=jO5LxXvUKE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/SVBC.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ SVBC
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433212&extension=ts&play_token=uu8f209yrq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY CLASSIC CINEMA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TATA PLAY CLASSIC CINEMA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433240&extension=ts&play_token=EM2n7nfArw
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY CLASSIC TV.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TATA PLAY CLASSIC TV
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433171&extension=ts&play_token=2LD4ep81zs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY SOUTH TALKIES.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TATA PLAY SOUTH TALKIES
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433172&extension=ts&play_token=gd4PozAChZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TATA PLAY THEATRE.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TATA PLAY THEATRE HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433241&extension=ts&play_token=wBGi0CzLnf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/THE Q YOU.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ THE Q YOU HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433243&extension=ts&play_token=sj1fvktfkD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TIMES NOW NAVBHARAT.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TIMES NOW NAVBHARAT HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433192&extension=ts&play_token=iPGbzQf8y4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/TOTAL TV HARYANA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ TOTAL TV HARYANA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433203&extension=ts&play_token=24BhvMtUN9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/VTV CANADA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ VTV CANADA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433244&extension=ts&play_token=RBTiFeuaVQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ZEE CINEMA INTERNATIONAL.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE CINEMA INTERNATIONAL
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433247&extension=ts&play_token=8q6foAgoYD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ZEE GANGA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE GANGA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433163&extension=ts&play_token=Yv55OmeXb2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ZEE KALINGA.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE KALINGA
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433170&extension=ts&play_token=gIJW6jYfr0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/HINDI INDIA/ZEE ZEST.png" group-title="┃ HINDI┃ INDIA",┃HINDI┃ ZEE ZEST HD
+http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1433161&extension=ts&play_token=pPSrBmmMlA
