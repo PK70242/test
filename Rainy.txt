@@ -1,64 +1,14 @@
 #EXTM3U
-#PLAYLIST:Sony Channels
+#PLAYLIST:Sony_Channels
 
-#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png" group-title="Sony_International",Sony One Shark Tank Brasil
-https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
+#EXTINF:-1 group-title="Sony_India",SONY TEN 1 4K*
+https://streamhub.dhruvpatil681.workers.dev/1101.m3u8
 
+#EXTINF:-1 group-title="Sony_India",SONY TEN 2 4K*
+https://streamhub.dhruvpatil681.workers.dev/1103.m3u8
 
-#EXTINF:-1 tvg-id="662bf39756fc840008f25cb9" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png" group-title="Sony_International",Sony One Escape Perfecto
-https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Sony_International",Cine Sony (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony_India",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Sony_International",Sony Movies (United States) (720p)
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="All Channels",sonyliv_playlist.m3u
-https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
-
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Live Event",2nd ODI - 7 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="Live Event",3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794062025~acl=/*~id=34499789630551432393808686992146~hmac=69253e12d00b9055ff949840ea690b0557b9c05a12ab9615d9651b6d8e8609ee
-
-#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Undefined",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="662bf39756fc840008f25cb9" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png" group-title="Sony_International",Sony One Escape Perfecto
-https://jmp2.uk/plu-662bf39756fc840008f25cb9.m3u8
-
-#EXTINF:-1 tvg-id="6647c0b91050b60008390de4" tvg-logo="https://images.pluto.tv/channels/6647c0b91050b60008390de4/colorLogoPNG_1772461335237.png" group-title="Sony_International",Sony One Shark Tank Brasil
-https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-
-#EXTINF:-1 tvg-id="6647c02422494d000804b13a" tvg-logo="https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png" group-title="Sony_International",Sony One Shark Tank México
-https://jmp2.uk/plu-6647c02422494d000804b13a.m3u8
-
-
-#EXTINF:-1 group-title="Sony_International",Sony One Cinema (BR)
-https://spt-sonyoneclassicas-1-br.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sony_International",Sony One Emoções (BR)
-https://spt-sonyoneemocoes-1-br.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sony_International",Sony One Shark Tank (BR)
-https://spt-sonyonesharktankbrasil-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sony_India",SONY TEN 5 4K*
+https://streamhub.dhruvpatil681.workers.dev/1105.m3u8
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Sony_India",Sony LIV Sports 1
 https://sliv.tgaadi.workers.dev/ten1hd.m3u8
@@ -77,6 +27,13 @@ https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 
 #EXTINF:-1 tvg-id="3399" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Sony_India",Sony LIV Sports 5
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony_India",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="SET HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Sony Liv | STREAMX",SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
@@ -135,29 +92,12 @@ https://sliv.tgaadi.workers.dev/sonymarathi.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Sony Liv | STREAMX",Sony Aath
 https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
 
-#EXTINF:-1 group-title="Sony_India",SONY TEN 1 4K*
-https://streamhub.dhruvpatil681.workers.dev/1101.m3u8
 
-#EXTINF:-1 group-title="Sony_India",SONY TEN 2 4K*
-https://streamhub.dhruvpatil681.workers.dev/1103.m3u8
-
-#EXTINF:-1 group-title="Sony_India",SONY TEN 5 4K*
-https://streamhub.dhruvpatil681.workers.dev/1105.m3u8
-
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony_India",Sony KAL Hindi (1080p)
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony Liv | STREAMX",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="Entertainment",Sony Aath (576p)
-https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony_India",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony_India",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsvZqL3/20260917-182021.png" group-title="Sony_International",Sony Movies
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Sony Entertainment Television HD" tvg-logo="https://img.media.jio.com/imagespublic/40/88/300266_1666878590371_l_medium.jpg" group-title="Entertainment",Sony Entertainment Television HD
 https://jiotvbpkstb.cdn.jio.com/bpk-tv/SETHDSTB_BTS/WDVLive/index.mpd?__hdnea__=st=1792043117~exp=1792064717~acl=/bpk-tv/SETHDSTB_BTS/WDVLive/*~hmac=6c3ea727f6ac935feec15ace07ce49734e7988ac08f7d6174b581159c63fedb7
@@ -180,6 +120,7 @@ https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="All Channels",sonyliv_playlist.m3u
 https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Sony_India (Sportlink)",Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
@@ -244,33 +185,13 @@ https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Sony_India (Sportlink)",Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
 
-#EXTINF:-1 tvg-id="SonyMovies.in" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-movies-563051ab.png" group-title="Sony_International",Sony Movies
-https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-kal.png" group-title="Sony_India",Sony KAL
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FR024616" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FR024616/logo_color.png" group-title="Lifestyle",Baywatch
-https://amg00145-fremantlemedia-amg00145c2-tclideo-northamerica-617.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-baywatch-tclideonorthamerica/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1794196448&channel_name=Baywatch&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB1&ifa_type=REPLACE_ME&ifa_type=REPLACEME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-
-
-#EXTINF:-1 group-title="Lifestyle",Baywatch (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionTV.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="Lifestyle",FashionTV (Russia) (1080p)
-http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="Lifestyle",FashionTV Paris L'Original (1080p)
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 group-title="All Channels",sonyliv_playlist.m3u
+https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
 
 
-
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets (1080p)
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-
-#EXTINF:-1 tvg-id="GlobalFashionChannel.us@SD" tvg-logo="https://i.imgur.com/s4eGYEP.jpg" group-title="Lifestyle",Global Fashion Channel (1080p)
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="93" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vfjgky.png",93 Love 2 Hate TV
-https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8?ads.channel=6610&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1794189119~exp=1794210719~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.55.118.114_yuppfast_2_channel_93_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.55.118.114_yuppfast_2_channel_93_-1~hmac=69be7bae80348baac8bb6ea3aee274e18d35708e1af0bd8d20265137ec12203e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Love2HateTV&ads.language=ENG&ads.user=0
 
