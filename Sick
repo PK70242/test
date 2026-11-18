@@ -242,3 +242,9 @@ https://raw.githubusercontent.com/ibstvofficial/Crichd-/refs/heads/main/Crichd%2
 #EXTINF:-1, Soon.m3u
 https://raw.githubusercontent.com/Babuperumana/IN_IptV/refs/heads/main/sun.m3u
 
+#EXTINF:-1 tvg-id="1086" tvg-logo="https://i.imgur.com/DZyMRLe.jpeg" group-title="Local Channels 🇵🇭",Star Movies FHD
+http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bcOROs4.jpeg" group-title="Local Channels 🇵🇭",Star Movies Select HD
+http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
+
