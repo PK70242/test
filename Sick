@@ -9,6 +9,11 @@
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+#EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="SPORTS | CRICKET",WILLOW SPORTS BKP
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="SPORTS | CRICKET",WILLOW SPORTS BKP2
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="skycricket" tvg-name="SKY CRICKET" tvg-logo="https://i.ibb.co/Q37mF9Ty/images-1.png" group-title="SPORTS | CRICKET",SKY CRICKET
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
@@ -215,3 +220,21 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 
 #EXTINF:-1 tvg-id="star_sports_hindi_1" tvg-name="STAR SPORTS HINDI 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="SPORTS | CRICKET",STAR SPORTS HINDI 1 BKP
 http://magiclive.xyz:2052/uBwJpdzf/tZGszzA/358990
+
+#EXTINF:-1, WillowLive.m3u
+https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/willow.m3u
+
+#EXTINF:-1, Primesports.m3u
+https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u
+
+#EXTINF:-1, Fancode.m3u
+https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode.m3u
+
+#EXTINF:-1, tamilrocket.m3u
+https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/live-events.m3u
+
+#EXTINF:-1, xr3red.m3u
+https://raw.githubusercontent.com/xr3ed/xr3ed-tv/refs/heads/main/xr3edtv-liveevent.m3u
+
+#EXTINF:-1, CricHD.m3u
+https://raw.githubusercontent.com/ibstvofficial/Crichd-/refs/heads/main/Crichd%20playlist.m3u
