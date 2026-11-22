@@ -1,6 +1,6 @@
 #EXTM3U
 
-#PLAYLIST:Cricket
+#EXTM3U url-tvg="https://raw.githubusercontent.com/PK70242/test/main/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="CRICKET",WILLOW SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
