@@ -172,3 +172,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 
+
+#EXTINF:-1 tvg-id="star_sports_hindi_1" tvg-name="STAR SPORTS HINDI 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CRICKET"",STAR SPORTS HINDI 1 BKP
+http://magiclive.xyz:2052/uBwJpdzf/tZGszzA/358990
+
+#EXTINF:-1, Willow_Live.m3u
+https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/willow.m3u
+
+#EXTINF:-1, Primesports_Live.m3u
+https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u
+
+#EXTINF:-1, Fancode_Live.m3u
+https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode.m3u
+
+#EXTINF:-1, tamilrocket_Live.m3u
+https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/live-events.m3u
+
+#EXTINF:-1, CricHD_Live.m3u
+https://raw.githubusercontent.com/ibstvofficial/Crichd-/refs/heads/main/Crichd%20playlist.m3u
+
+###EXTINF:-1, xr3red.m3u
+https://raw.githubusercontent.com/xr3ed/xr3ed-tv/refs/heads/main/xr3edtv-liveevent.m3u
