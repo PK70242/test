@@ -87,7 +87,7 @@ https://sliv.tgaadi.workers.dev/max2.m3u8
 /#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Sony_India (Sportlink)",Sony WAH
 https://sliv.tgaadi.workers.dev/sonywah.m3u8
 
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony_India (Sportlink)",Sony PIX HD
+/#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Sony_India (Sportlink)",Sony PIX HD
 https://sliv.tgaadi.workers.dev/pixhd.m3u8
 
 /#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony_India (Sportlink)",Sony SAB HD
