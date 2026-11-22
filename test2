@@ -1,0 +1,21 @@
+#EXTM3U
+
+#Playlist: Live Events
+
+#EXTINF:-1, WillowLive.m3u
+https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/willow.m3u
+
+#EXTINF:-1, Primesports.m3u
+https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u
+
+#EXTINF:-1, Fancode.m3u
+https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode.m3u
+
+#EXTINF:-1, tamilrocket.m3u
+https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/live-events.m3u
+
+#EXTINF:-1, xr3red.m3u
+https://raw.githubusercontent.com/xr3ed/xr3ed-tv/refs/heads/main/xr3edtv-liveevent.m3u
+
+#EXTINF:-1, CricHD.m3u
+https://raw.githubusercontent.com/ibstvofficial/Crichd-/refs/heads/main/Crichd%20playlist.m3u
