@@ -1,4 +1,252 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="1" tvg-name="INDIA TODAY" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" group-title="News",INDIA TODAY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/1
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/1.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="2" tvg-name="Travel XP - 4K" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6-j5f5oyqw-v2/imageContent-6-j5f5oyqw-m2.png" group-title="Lifestyle",Travel XP - 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/2
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://delta47tatasky.akamaized.net/out/i/298431.mpd|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="3" tvg-name="Ruposhi Bangla" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="Bengali",Ruposhi Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/3
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/3.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="6" tvg-name="News18 Gujarati" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png" group-title="Gujarati",News18 Gujarati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/6
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/6.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="7" tvg-name="B4U Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="Movies",B4U Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/7
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/7.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="8" tvg-name="STAR Plus HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/8
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/8.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="9" tvg-name="B4U Music" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Music",B4U Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/9
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/9.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="10" tvg-name="Flowers" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png" group-title="Malayalam",Flowers
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/10
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/10.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="11" tvg-name="TV9 Telugu" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png" group-title="Telugu",TV9 Telugu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/11
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/11.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="12" tvg-name="Zee Anmol Cinema 2" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v3/ZACINE_Thumbnail.png" group-title="Hindi",Zee Anmol Cinema 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/12
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/12.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="13" tvg-name="India News Haryana" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8968-j7rcix2w-v1/imageContent-8968-j7rcix2w-m1.png" group-title="News",India News Haryana
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/13
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/13.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="14" tvg-name="India News Rajasthan" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png" group-title="News",India News Rajasthan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/14
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/14.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="15" tvg-name="SET HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Entertainment",SET HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/sliv/15|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="17" tvg-name="Mastiii" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="Music",Mastiii
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/17
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/17.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="20" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png" group-title="Hindi",Zee Bihar Jharkhand
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/20
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/20.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="22" tvg-name="News World India" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52679-k7zx7qqg-v1/imageContent-52679-k7zx7qqg-m2.png" group-title="Lifestyle",News World India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/22
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://delta31tatasky.akamaized.net/out/i/57073.mpd|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="23" tvg-name="News18 Bangla" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png" group-title="Bengali",News18 Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/23
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/23.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="24" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/24
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/24.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="25" tvg-name="Kairali TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png" group-title="Malayalam",Kairali TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/25
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/25.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="26" tvg-name="Colors Bangla" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Bengali",Colors Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/26
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/26.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="27" tvg-name="IBC 24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png" group-title="Hindi",IBC 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/27
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/27.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="30" tvg-name="India News UP UK" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9007-j7ss7x80-v1/imageContent-9007-j7ss7x80-m1.png" group-title="News",India News UP UK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/30
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/30.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="31" tvg-name="Mazhavil Manorama" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-90-j5fjv4hk-v1/imageContent-90-j5fjv4hk-m1.png" group-title="Malayalam",Mazhavil Manorama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/31
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/31.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="32" tvg-name="SONY PIX HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Movies",SONY PIX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/sliv/32|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="33" tvg-name="Public TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-98-j5fjwu7s-v2/imageContent-98-j5fjwu7s-m3.png" group-title="Kannada",Public TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://gigaiptvindia.vercel.app/tataplay/key/33
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gigaiptvindia.vercel.app/tataplay/33.mpd?userAgent=Mozilla/5.0|X-Forwarded-For=23.52.73.244
+
+#EXTINF:-1 tvg-id="34" tvg-name="SONY AATH" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-c
 
 #Playlist: Live Events
 
