@@ -30,6 +30,9 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RDRTfkg.png",Sky sports cricket 2
+https://crimson-dew-93bb.prtstream.workers.dev/?url=https%3A%2F%2Fbl.rutube.ru%2Flivestream%2F7c13a51576b9ff2601f08f5d57dd5169%2Findex.m3u8%3Fs%3DESeK2qWTROnqUU-EqdtYBw%26e%3D2075227853%26scheme%3Dhttps
+
 
 #EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="CRICKET", Cricbuzz
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.ts
