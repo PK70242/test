@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/PK70242/test/main/epg.xml.gz"
+#Playlist: Cricket
+
+#EXTINF:-1, tamilrocket_Live.m3u
+https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/live-events.m3u
 
 #EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="CRICKET",WILLOW SPORTS
 #KODIPROP:inputstream=inputstream.adaptive
@@ -9,15 +12,6 @@
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="Willow Sports" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/11/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="CRICKET",Willow Sports BKP
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd
-
-#EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="CRICKET",WILLOW SPORTS BKP1
-https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="willowsports" tvg-name="WILLOW SPORTS" tvg-logo="https://i.ibb.co/mV3bdZvn/images-3.png" group-title="CRICKET",WILLOW SPORTS BKP2
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
@@ -25,14 +19,9 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w
 #EXTINF:-1 tvg-id="skycricket" tvg-name="SKY CRICKET" tvg-logo="https://i.ibb.co/Q37mF9Ty/images-1.png" group-title="CRICKET",SKY CRICKET
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="CRICKET", Sky Sports Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-#http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
-https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RDRTfkg.png",Sky sports cricket 2
+#EXTINF:-1 group-title="CRICKET" tvg-logo="https://i.imgur.com/RDRTfkg.png",SKY CRICKET2
 https://crimson-dew-93bb.prtstream.workers.dev/?url=https%3A%2F%2Fbl.rutube.ru%2Flivestream%2F7c13a51576b9ff2601f08f5d57dd5169%2Findex.m3u8%3Fs%3DESeK2qWTROnqUU-EqdtYBw%26e%3D2075227853%26scheme%3Dhttps
-
 
 #EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="CRICKET", Cricbuzz
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.ts
@@ -83,18 +72,18 @@ https://streamhub.dhruvpatil681.workers.dev/1452.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CRICKET",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="CRICKET",SONY SPORTS 1 HD
 https://sliv.tgaadi.workers.dev/ten1hd.m3u8
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="CRICKET",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="CRICKET",SONY SPORTS 2 HD
 https://sliv.tgaadi.workers.dev/ten2hd.m3u8
 
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="CRICKET",SONY SPORTS TEN 3 Hindi HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-title="CRICKET",SONY SPORTS 3 Hindi HD
 https://sliv.tgaadi.workers.dev/ten3hd.m3u8
 
 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="CRICKET",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="CRICKET",SONY SPORTS 5 HD
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 
 #EXTINF:-1 tvg-id="tntsports1" tvg-name="TNT SPORTS 1" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="CRICKET",TNT SPORTS 1
@@ -104,8 +93,10 @@ https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="019de785-3a0f-7a8d-aa40-1bc1d60c9817" tvg-name="TNT Sport 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" group-title="CRICKET",TNT Sport 1 BKP
-https://tvsen5.aynaott.com/asdfadsf/index.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="TV",TNT Sports 1 BKP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6add40ae2d4a99e07363c88f/playlist.m3u8?token=NmFkZDQwYWUyZDRhOTllMDczNjNjODhmOjE3OTU3NzE4MDg4Njc6Y2RubGl2ZXR2LnR2OmRlZmRmYzJiM2I5NGY5ZDcuNmM2MmZhNWZmMTkxZGI5N2Q5N2I1MWI4NWRhMTBlODA3NjkwN2EwYmI1ZjAyNWQxNjIwMzU0ZWI3MTUzMTUwNg
+
 
 #EXTINF:-1 tvg-id="tntsports2" tvg-name="TNT SPORTS 2" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="CRICKET",TNT SPORTS 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -175,24 +166,33 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 
-
 #EXTINF:-1 tvg-id="star_sports_hindi_1" tvg-name="STAR SPORTS HINDI 1" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CRICKET",STAR SPORTS HINDI 1 BKP
 http://magiclive.xyz:2052/uBwJpdzf/tZGszzA/358990
 
-#EXTINF:-1, Willow_Live.m3u
-https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/willow.m3u
 
-#EXTINF:-1, Primesports_Live.m3u
-https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u
 
-#EXTINF:-1, Fancode_Live.m3u
-https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode.m3u
 
-#EXTINF:-1, tamilrocket_Live.m3u
-https://raw.githubusercontent.com/pocket-tamil/m3u_source/refs/heads/main/live-events.m3u
 
-#EXTINF:-1, CricHD_Live.m3u
-https://raw.githubusercontent.com/ibstvofficial/Crichd-/refs/heads/main/Crichd%20playlist.m3u
 
-###EXTINF:-1, xr3red.m3u
-https://raw.githubusercontent.com/xr3ed/xr3ed-tv/refs/heads/main/xr3edtv-liveevent.m3u
+
+
+
+
+
+
+# # ##EXTINF:-1, xr3red.m3u
+# https://raw.githubusercontent.com/xr3ed/xr3ed-tv/refs/heads/main/xr3edtv-liveevent.m3u
+
+
+
+# ###EXTINF:-1, Willow_Live.m3u
+# https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/willow.m3u
+
+# ###EXTINF:-1, Primesports_Live.m3u
+# https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u
+
+# #####EXTINF:-1, Fancode_Live.m3u
+# https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode.m3u
+
+# #EXTINF:-1, CricHD_Live.m3u
+# https://raw.githubusercontent.com/ibstvofficial/Crichd-/refs/heads/main/Crichd%20playlist.m3u
